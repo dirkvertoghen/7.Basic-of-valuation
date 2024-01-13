@@ -8,7 +8,7 @@
       Inventory               500
       Receivables             300
       Cash                    400
-                                    2 200
+                                      2 200
                         _____________________ = -
     Common equity                    1 300
     Share capital       400
