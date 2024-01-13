@@ -2,8 +2,7 @@
 
 1. Understanding Net realizable value ( NRV )
 
-                                      BV
-   
+                                        BV
       Non- current assets             1 000
       Current assets                  1 200
       Inventory               500
