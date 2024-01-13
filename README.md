@@ -68,7 +68,7 @@ Required:
 Calculate the theoretical value of the company.
 
 
-# ISSUE. Economic value added ( EVA ) / Residual value
+### ISSUE. Economic value added ( EVA ) / Residual value
 Division A made a operating net profit of $10,000 during the most recent financial year. The capital used by the division equity plus long-term debt) was $70,000. The weighted average cost of capital of the company is 13%.
 
 Required:
